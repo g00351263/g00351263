@@ -2,7 +2,6 @@
 - 👀 I’m interested in website/software development
 - 🌱 I’m currently learning Cyber security
 - 💞️ 
-- 📫 How to reach me on samson_knight@yahoo.com
 
 <!---
 g00351263/g00351263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
